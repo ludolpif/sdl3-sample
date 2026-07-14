@@ -1,0 +1,5 @@
+-std=gnu99
+-ISDL/include
+-ISDL_image/include
+-ISDL_mixer/include
+-ISDL_ttf/include
